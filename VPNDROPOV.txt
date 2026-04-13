@@ -5,3 +5,4 @@ vless://ebad4f90-aa13-483e-95f1-e2bb0b05c9b3@72.56.5.134:443?encryption=none&flo
 vless://ebad4f90-aa13-483e-95f1-e2bb0b05c9b3@185.207.64.40:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=2pOmh-88HfcYd55Lg1x93Y2czv7WiYIjRpoV3QlDSz0#🇱🇻 Latvia
 vless://ebad4f90-aa13-483e-95f1-e2bb0b05c9b3@188.120.232.143:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=2pOmh-88HfcYd55Lg1x93Y2czv7WiYIjRpoV3QlDSz0#🇫🇮 Finland
 vless://ebad4f90-aa13-483e-95f1-e2bb0b05c9b3@5.42.100.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vk.com&fp=chrome&pbk=2pOmh-88HfcYd55Lg1x93Y2czv7WiYIjRpoV3QlDSz0#🇺🇸 USA
+vless://ebad4f90-aa13-483e-95f1-e2bb0b05c9b3@194.67.120.24:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ya.ru&fp=chrome&pbk=2pOmh-88HfcYd55Lg1x93Y2czv7WiYIjRpoV3QlDSz0#🇷🇺 Russia
